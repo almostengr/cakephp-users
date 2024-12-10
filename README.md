@@ -9,3 +9,10 @@ The recommended way to install composer packages is:
 ```
 composer require almostengr/cakephp-users
 ```
+
+
+## Migration
+
+```
+cake migrations migrate --plugin CakephpUsers
+```
